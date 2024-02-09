@@ -32,5 +32,11 @@
   - :seedling: Exploring Technical Content Writing.
   - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 </div>
+
+### :hammer_and_wrench: Languages and Tools :
+<div align="start"> 
+
+
+</div>
 </div>
 
