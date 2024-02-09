@@ -53,5 +53,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="trello" **alt="trello" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
 </div>
 
