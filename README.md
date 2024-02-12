@@ -1,9 +1,9 @@
 
-
-<div id="header" align="start">
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> 
 </div>
+<div id="header" align="start">
+
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGExdmgzYjcyc2ZidDBkMHZ2d2c3azNiMjYyajlmY294bWt5bXRrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 
