@@ -17,7 +17,7 @@
 <div align="start"> 
 
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toulouse.
-   - :telescope: I engage in crafting websites and web applications using technologies such as JavaScript, React, Node, Express, SQL, and Sass.
+   - :telescope: I engage in crafting websites and web applications using technologies such as JS, React, Node, Express, SQL, and Sass.
   - :seedling: Enthusiastic about finding solutions to both technical and human challenges.
   - :thought_balloon: During my leisure time, I browse articles on daily.dev and work on developing innovative personal projects.
 
